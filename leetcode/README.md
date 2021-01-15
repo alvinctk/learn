@@ -1,5 +1,7 @@
 ## For ordering n elements, we need at least n-1 operations. 
-i[Leetcode 1464: Maximum Product of Two Elements in an array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+[Leetcode 1464: Maximum Product of Two Elements in an array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+
+My solution is at [here](https://github.com/alvinctk/learn/blob/main/leetcode/lc_1464_max_product_two_elements_in_array.py)
 
 For example: select two maximum numbers in array of unsorted numbers.
 
