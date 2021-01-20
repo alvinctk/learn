@@ -24,7 +24,7 @@ Notes taken may included other information outside of this course.
 
 ### New to your job?
 - Review job responsibilities 
-- ASk for someone for help
+- Ask for someone for help
 - Keep notes
 - Break tasks down into smaller steps 
 
