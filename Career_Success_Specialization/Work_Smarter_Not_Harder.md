@@ -91,7 +91,7 @@ delivered? Those hours can be repurposed for hobbies, or going out for brunch
 with your family. 
 
 **Sometimes we get so obsessed with saving bits of time we fail to see the big
-picture startingat us.** Saving two minutes doesn't do much for you. Canceling
+picture starting at us.** Saving two minutes doesn't do much for you. Canceling
 a weekly two hour meeitng that's long outlived its usefulness? That time really
 does add up. 
 
