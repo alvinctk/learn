@@ -109,7 +109,7 @@ does add up.
 ### Further reads 
 
 Reources by these authors:
-- Laura Vanderkam is the author of several time management and productivity books, including I Know How She Does It: How Successful Women Make the Most of Their Time (Portfolio, June 9, 2015), What the Most Successful People Do Before Breakfast (Portfolio, 2013), and 168 Hours: You Have More Time Than You Think (Portfolio, 2010). She blogs at www.lauravanderkam.com. More
+- Laura Vanderkam is the author of several time management and productivity books, including I Know How She Does It: How Successful Women Make the Most of Their Time (Portfolio, June 9, 2015), What the Most Successful People Do Before Breakfast (Portfolio, 2013), and 168 Hours: You Have More Time Than You Think (Portfolio, 2010). She blogs at www.lauravanderkam.com.
 - `The Juggler's Guide to Managing Multiple Projects` by Michael
 Singer Dobson. 
 
