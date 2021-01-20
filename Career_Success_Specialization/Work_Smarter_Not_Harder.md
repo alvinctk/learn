@@ -11,8 +11,19 @@ Coursera course: [Work Smarter, Not Harder: Time Management for Personal & Profe
 Specialization: Career Sucess </br>
 Course offered by: University of California, Irvine </br>
 Course completion: [Course certificate](https://www.coursera.org/account/accomplishments/certificate/QBQRPS8GXU5J) </br>
-Course instructor: Margaret Meloni, MBA, PMP </br>
+Course instructor: [Margaret Meloni, MBA, PMP](https://www.coursera.org/instructor/margaret-meloni-uci) </br>
 
+What you will learn
+- Plan effectively to achieve your personal and professional goals
+- Recognize and overcome barriers to successful time management
+- Keep your sense of perspective to prevent and manage crises 
+- Manage resources effectively and efficiently
+
+Skills gain
+- Task management
+- Management
+- Planning
+- Plan
 
 ## About notes
 
