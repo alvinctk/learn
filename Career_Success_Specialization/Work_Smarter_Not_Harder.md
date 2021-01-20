@@ -1,30 +1,28 @@
-# Work Smarter, Not Harder: Time Management for Personal & Professional
-Productivity 
+# Work Smarter, Not Harder: Time Management for Personal & Professional Productivity
 
 MOOC platform: [Coursera](https://www.coursera.org/learn/work-smarter-not-harder)
-Specialization: Career Sucess
-Course offered by: University of California, Irvine
-[Course certificate](https://www.coursera.org/account/accomplishments/certificate/QBQRPS8GXU5J)
-Course instructor: Margaret Meloni, MBA, PMP 
-Notes taken by: Alvin Chia
 
-#### About course 
+Specialization: Career Sucess </br>
+
+Course offered by: University of California, Irvine </br>
+[Course certificate](https://www.coursera.org/account/accomplishments/certificate/QBQRPS8GXU5J) </br>
+Course instructor: Margaret Meloni, MBA, PMP </br>
+Notes taken by: Alvin Chia </br>
+
+## About course 
 
 Use tools, methods, and techniques of goal settings, prioritizing, scheduling,
 and delegation to overcome time management challenges and enhance productivity. 
 
 
-#### About notes
+## About notes
 
 Notes taken may included other information outside of this course.
 
 
 ## Smart work habits just don't happen. 
 
-
-#### New to your job? 
-
-New to your job? 
+### New to your job?
 - Review job responsibilities 
 - ASk for someone for help
 - Keep notes
@@ -56,7 +54,7 @@ Figuring out your priorities
 Before moving on, create a work plan, or personal plan, for the next 5 days. 
 
 
-#### Two ways to save time.
+### Two ways to save time.
 
 You can find a million ways to save minutes. 
 
@@ -81,7 +79,7 @@ It's fine to figure out a more efficient way to unload the dishwater.
 A better approach is to track your time for a few days - or a week. And, take a
 honest look at what is and isn't adding value to your life. 
 
-#### When we have bits of time we filled them, but not with things that matter. 
+### When we have bits of time we filled them, but not with things that matter. 
 
 >"We often, maybe even mostly, let our schedule schedule itself; Ignorning the fact that time, not money, is our only true leadership asset." - Tom Peters
 
@@ -98,7 +96,7 @@ a weekly two hour meeitng that's long outlived its usefulness? That time really
 does add up. 
 
 
-#### Further reads 
+### Further reads 
 
 Reources by these authors:
 - Laura Vanderkam is the author of several time management and productivity books, including I Know How She Does It: How Successful Women Make the Most of Their Time (Portfolio, June 9, 2015), What the Most Successful People Do Before Breakfast (Portfolio, 2013), and 168 Hours: You Have More Time Than You Think (Portfolio, 2010). She blogs at www.lauravanderkam.com. More
@@ -109,7 +107,7 @@ Singer Dobson.
 
 ## Time is a limited resource.
 
-#### Time tracking
+### Time tracking
 
 Keep yourself honest.
 
@@ -144,7 +142,7 @@ you believe the management are open to dicussion.
 
 
 
-#### You teach people how to treat you. 
+### You teach people how to treat you. 
 
 Here's a story to illustrate "You teach people how to treat you."
 
@@ -165,7 +163,7 @@ description, it's okay to set some boundaries.
 
 ## Little Tips That Make a Big Impact 
 
-#### Keep a log
+### Keep a log
 Keep a log of the work you do, time to complete the task, and, description of the
 task. 
 
@@ -194,7 +192,7 @@ effective in your job. And, your reputation will improves.
 ## Managing tasks and communications
 
 
-#### Keep your focus on delayed delivery
+### Keep your focus on delayed delivery
 
 Schedule specific time for communication. 
 
@@ -207,7 +205,7 @@ You can spend the rest of your day
 working on your work. 
 
 
-#### Do no-reply task immediately
+### Do no-reply task immediately
 
 Actionable task with less than 2 minutes or less. You can do the task
 immediately and get the task out of the way. 
@@ -216,7 +214,7 @@ If the informational task has nothing to required of you, do it right away. For
 example, put the task into your list, or on your work plan, or your calender.
 So you don't forget about it. 
 
-#### Classify email
+### Classify email
 
 Classify emai by your inbox folders 
 - If it's quick to do -> **Do it** folder
@@ -228,7 +226,7 @@ Classify emai by your inbox folders
 The classification does not only applies to text or email. It can be applied to
 other types of task. 
 
-#### Keep/schedule similar information/item/task/object together
+### Keep/schedule similar information/item/task/object together
 
 **Download apps across devices.** Sync data to the cloud. You can work on the task on different devices wherever
 you goes. 
@@ -255,7 +253,7 @@ during your difficult time.
 When you need to complete a critical task during the time of day that is
 difficult for you, ask someone to act as a reviewer.
 
-#### Further reads
+### Further reads
 Resources by these authors
 - David Allen, the author of `Getting Things Done` 
 
@@ -274,7 +272,7 @@ another, and back again.
 If you must switch tasks, leave yourself notes as to how to start again. This
 minimizes switching costs.
 
-#### Further reads 
+### Further reads 
 Resources by these authors:
 - [Seminar on Multitasking - by Mike
   Sanders](https://www.youtube.com/watch?v=TThMIMJbV0Y&feature=youtu.be)
@@ -285,15 +283,15 @@ Resources by these authors:
 
 Focus and discipline are common traits of highly successful people. 
 
-#### Focus one task at a time
+### Focus one task at a time
 When you have a choice, you should focus on one task until the task is
 completed or it is time to stop. 
 
-#### Positive reinforcement
+### Positive reinforcement
 When you are trying to change your work habits, it's a good idea to reward
 yourself when you meet your goal. Positive reinforcement is helpful. 
 
-#### Prepare for tomorrow, today.
+### Prepare for tomorrow, today.
 
 Before you go to bed, write down everything that's on your brain, things you
 are thinking about, what you need to do the next day. 
@@ -303,12 +301,8 @@ for yourself, you can quiet your inner taskmaster, get a good night sleep. Get
     up in the morning and be ready to start the day with notes from yesterday. 
 
 
-#### Power down the distractions 
+### Power down the distractions 
 
 Close all the applications. Focus and look at the task you want to accomplish. 
-
-
-
-
 
 
