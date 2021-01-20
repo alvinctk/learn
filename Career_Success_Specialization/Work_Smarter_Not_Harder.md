@@ -7,10 +7,7 @@ Notes taken by: Alvin Chia </br>
 Use tools, methods, and techniques of goal settings, prioritizing, scheduling,
 and delegation to overcome time management challenges and enhance productivity. 
 
-
-MOOC platform: [Coursera](https://www.coursera.org/learn/work-smarter-not-harder)
-Course: Work Smarter, Not Harder: Time Management for Personal & Professional
-Productivity. </br>
+Coursera course:[Coursera](https://www.coursera.org/learn/work-smarter-not-harder) </br>
 Specialization: Career Sucess </br>
 Course offered by: University of California, Irvine </br>
 Course completion: [Course certificate](https://www.coursera.org/account/accomplishments/certificate/QBQRPS8GXU5J) </br>
