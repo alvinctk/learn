@@ -206,7 +206,7 @@ effective in your job. And, your reputation will improves.
 
 Schedule specific time for communication. 
 
-Emails keeps coming in. Do not looka at each indvidual email. 
+Emails keeps coming in. Do not look at each indvidual email. 
 
 If emails are not urgent, you can respond with delayed
 delivery at the end of your work day. 
