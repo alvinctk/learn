@@ -267,7 +267,9 @@ difficult for you, ask someone to act as a reviewer.
 Resources by these authors
 - David Allen, the author of `Getting Things Done` 
 
-## Multitasking 
+## Multitasking is a Myth
+
+The human brain is incapable of multitasking.
 
 Multitasking is not as effective as concentrating on one task or thing at a
 time. 
@@ -275,12 +277,26 @@ time.
 
 > "To do two things at once is to do neither." - Publilius Syrus
 
+
+[According to a landmark study](https://pubmed.ncbi.nlm.nih.gov/11518143/) in cognitive function and multitasking, the human
+brain goes through two stages when switching between tasks:
+- Goal shifting 
+- Rule activiation
+
+
+Because the brain has to move between these two stages rapidly in multitasking,
+it takes a toll on your cognitive ability. This is called "switching cost."
+
+
 Switching cost is the time taken to switch from one task to another, then
 another, and back again. 
 
 
 If you must switch tasks, leave yourself notes as to how to start again. This
 minimizes switching costs.
+
+Don't multi-task unless the tasks are extremely closely related. 
+
 
 ### Further reads 
 Resources by these authors:
