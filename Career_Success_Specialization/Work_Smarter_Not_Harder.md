@@ -228,7 +228,7 @@ So you don't forget about it.
 
 Classify emai by your inbox folders 
 - If it's quick to do -> **Do it** folder
-- Informational email -> **Infromation** folder
+- Informational email -> **Information** folder
 - Actionable email -> **Action** folder -> Schedule your work plan and
   calender
 - Email reply -> **Pending** -> Create a reminder on calender
