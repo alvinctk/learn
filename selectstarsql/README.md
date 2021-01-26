@@ -50,7 +50,7 @@ JOIN
 
  Find the senators who cosponsored but didn't sponsor bills.
 
- ```sqlite
+ ```sql
 SELECT DISTINCT
 	a.cosponsor_name
 FROM
